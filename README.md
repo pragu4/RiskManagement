@@ -4,7 +4,7 @@
 Welcome to this repository for the learning journey "Developing with SAP Extension Suite" published on [SAP Learning](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite). We provide a starting template for the exercises as well as a dedicated branch for each exercise with its final solution.
 
 ## Requirements
-You can complete each of the exercises using your [SAP BTP Trial account](https://account.hanatrial.ondemand.com/). In a SAP Classroom training you will use the provided systems by the trainer. In your "Full Stack Cloud Application" dev space of your SAP Business Application Studio, you can easily clone and run this code. All further requirements are exactly described in the learning journey.
+You can final complete each of the exercises using your [SAP BTP Trial account](https://account.hanatrial.ondemand.com/). In a SAP Classroom training you will use the provided systems by the trainer. In your "Full Stack Cloud Application" dev space of your SAP Business Application Studio, you can easily clone and run this code. All further requirements are exactly described in the learning journey.
 
 ## Download and Installation
 
