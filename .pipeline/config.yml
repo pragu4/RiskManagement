@@ -25,14 +25,14 @@
        tmsUpload: false
     steps:
     mtaBuild:
-      buildTarget: 'CF'
+      buildTarget: "CF"
       cloudFoundryDeploy:
-        deployTool: 'mtaDeployPlugin'
-        deployType: 'standard'
+        deployTool: "mtaDeployPlugin"
+        deployType: "standard"
         cloudFoundry: 
           apiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
-          org: "ad361968trial"
-          space: "dev"
+          cfOrg: "ad361968trial"
+          cfSpace: "dev"
           credentialsId: "cfdeploy"
           appName: "Risk"
         mtaDeployParameters: "-f --version-rule ALL"
