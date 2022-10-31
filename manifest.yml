@@ -1,7 +1,7 @@
 # Generated manifest.yml based on template version 0.1.0
-# appName = risk-management
-# language=nodejs
-# multitenancy=false
+ appName = risk-management
+ language=nodejs
+ multitenancy=false
 ---
 applications:
 # -----------------------------------------------------------------------------------
