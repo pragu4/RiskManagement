@@ -25,10 +25,7 @@
        tmsUpload: false
     steps:
     mtaBuild:
-      buildTarget: "CF"
       cloudFoundryDeploy:
-        deployTool: "mtaDeployPlugin"
-        deployType: "standard"
         cloudFoundry: 
           apiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
           cfOrg: "ad361968trial"
