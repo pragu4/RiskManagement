@@ -28,8 +28,8 @@
       cloudFoundryDeploy:
         cloudFoundry: 
           apiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
-          cfOrg: "ad361968trial"
-          cfSpace: "dev"
+          Org: "ad361968trial"
+          Space: "dev"
           credentialsId: "cfdeploy"
           appName: "Risk"
         mtaDeployParameters: "-f --version-rule ALL"
